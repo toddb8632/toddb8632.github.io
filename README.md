@@ -35,3 +35,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+# Hello World!
+
+My Name is  toddb8632
+
+## Why am I creating this?
+- Following the GitHub On-demand Traning GitHub 102
+- Life Long Learning
+- I have projects in mind this will used for
+
+### How am I doing this
+1. Clone on my local drive 
+2. Create a branch
+3. Add commits
+4. Open a pull request
+5. Merge the pull request
+
