@@ -44,7 +44,7 @@ My Name is  toddb8632
 ## Why am I creating this?
 - Following the GitHub On-demand Traning GitHub 102
 - Life Long Learning
-- I have projects in mind this will used for
+- I have projects in mind GitHub pages will be used for
 
 ### How am I doing this
 1. Clone on my local drive 
